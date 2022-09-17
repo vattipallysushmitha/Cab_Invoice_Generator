@@ -5,7 +5,7 @@ public class Ride {
     private int time;
 
     /**
-     * to accept myultiple rides
+     * to accept multiple rides
      * @param distance
      * @param time
      */
