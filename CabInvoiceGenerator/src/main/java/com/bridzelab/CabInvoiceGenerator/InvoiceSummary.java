@@ -1,5 +1,4 @@
 package com.bridzelab.CabInvoiceGenerator;
-
 /**
  * This class is created to hold summary of multiple rides
  */
