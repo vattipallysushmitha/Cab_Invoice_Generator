@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridzelab.CabInvoiceGenerator.CabInvoiceGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-17T19:06:30" hostname="DESKTOP-75GFKKA" time="0.041">
+<testsuite name="com.bridzelab.CabInvoiceGenerator.CabInvoiceGeneratorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-09-17T19:11:52" hostname="DESKTOP-75GFKKA" time="0.047">
   <properties/>
-  <testcase name="givenDistanceAndTime_ShouldReturnTotalFare()" classname="com.bridzelab.CabInvoiceGenerator.CabInvoiceGeneratorTest" time="0.041"/>
+  <testcase name="givenLessDistanceAndTime_ShouldReturnMinFare()" classname="com.bridzelab.CabInvoiceGenerator.CabInvoiceGeneratorTest" time="0.039"/>
+  <testcase name="givenMultipleRides_ShouldReturnTotalFare()" classname="com.bridzelab.CabInvoiceGenerator.CabInvoiceGeneratorTest" time="0.002"/>
+  <testcase name="givenDistanceAndTime_ShouldReturnTotalFare()" classname="com.bridzelab.CabInvoiceGenerator.CabInvoiceGeneratorTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
