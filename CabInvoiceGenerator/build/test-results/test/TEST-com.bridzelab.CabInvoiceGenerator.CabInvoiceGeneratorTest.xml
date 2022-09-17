@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridzelab.CabInvoiceGenerator.CabInvoiceGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-17T19:06:30" hostname="DESKTOP-75GFKKA" time="0.041">
+  <properties/>
+  <testcase name="givenDistanceAndTime_ShouldReturnTotalFare()" classname="com.bridzelab.CabInvoiceGenerator.CabInvoiceGeneratorTest" time="0.041"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
